@@ -1,4 +1,4 @@
-# Napcase-Website-E-Commerce
+# Napcase-Website
 Napcase adalah website e-commerce penjualan casing handphone berbasis Laravel yang memiliki sistem autentikasi berbasis role (admin dan user), halaman transaksi, serta integrasi API untuk pengelolaan data.
 
 # Main Features
